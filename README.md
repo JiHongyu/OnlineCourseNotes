@@ -1,2 +1,3 @@
 # OnlineCourseNotes
-Some notes about online courses
+
+这里是一些在线课程的学习笔记。
