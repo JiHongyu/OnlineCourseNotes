@@ -221,3 +221,27 @@ Fibonacci优选法
 + 无重根
 + 有重根
 + 无实根
+
+# Chapter 4: 神奇的序列
+
+### Catalan数
+
+递推关系：
+
+\[
+C(n) = \sum_{k=1}^n C(k-1) \cdot C(n-k)
+\]
+
+解析表达式：
+\[
+C(n)=\frac{1}{n+1} \dbinom{2n}{n}
+\]
+栈混洗模型
+
+二叉树个数计数问题
+
+正多边形划分为不重叠的三角形计数问题
+
+Dyck Path
+
+Dyck Word （括号匹配）
